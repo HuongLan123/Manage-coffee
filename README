@@ -1,0 +1,9 @@
+Đây là trang web cho phép người quản lý các thức uống cà phê trên web của cửa hàng
+Để chạy được trang web, anh chị hãy tải folder và mở link : http://127.0.0.1:8000/
++ http://127.0.0.1:8000/: đây là giao diện các mặt hàng thức uống mà khách hàng có thể thấy
++ http://127.0.0.1:8000/admin: đây là trang web quản lý các thông tin của thức uống cà phế, có thể nhập thêm đồ uống, thay đổi thông tin mặt hàng
+Một số package cần tải:
++ django
++ terminal
+Ứng dụng cần tải:
++ dbBrowser Sqlite
